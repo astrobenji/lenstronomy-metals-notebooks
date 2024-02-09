@@ -19,6 +19,6 @@ For more details on the `lenstronomy` package and for citation purposes, you can
 
 To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow [https://github.com/lenstronomy].
 
-If you have any questions, please reach out! I am friendly and approachable!
-methab (at) student.unimelb.edu.au 
+If you have any questions, please reach out! I am friendly and approachable!  
+methab (at) student.unimelb.edu.au   
 :) 
