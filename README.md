@@ -13,9 +13,11 @@ To make it work, you need three things:
 
 This approach offers two benefits over a traditional approach: Firstly, it corrects for the effects of PSF smearing. Secondly, it allows asymmetric models to be fit to metallicity profiles that do not appear to be radially symmetric.
 
-For more details on the `lenstronomy` package, and to cite lenstronomy, you can read the papers [here] and [here].
+For more details on the `lenstronomy` package and for citation purposes, you can find the two `lenstronomy` introductory papers here:  
+<https://ui.adsabs.harvard.edu/abs/2018PDU....22..189B/abstract>  
+<https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3283B/abstract>
 
-To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow [https://github.com/lenstronomy](this link).
+To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow [https://github.com/lenstronomy].
 
 If you have any questions, please reach out! I am friendly and approachable!
 methab (at) student.unimelb.edu.au 
