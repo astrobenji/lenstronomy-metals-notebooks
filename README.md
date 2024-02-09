@@ -15,7 +15,7 @@ This approach offers two benefits over a traditional approach: Firstly, it corre
 
 For more details on the `lenstronomy` package, and to cite lenstronomy, you can read the papers [here] and [here].
 
-To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow ![this link]<https://github.com/lenstronomy>.
+To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow <https://github.com/lenstronomy>[this link].
 
 If you have any questions, please reach out! I am friendly and approachable!
 methab (at) student.unimelb.edu.au 
