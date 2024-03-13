@@ -16,7 +16,7 @@ For more details on the `lenstronomy` package and for citation purposes, you can
 <https://ui.adsabs.harvard.edu/abs/2018PDU....22..189B/abstract>  
 <https://ui.adsabs.harvard.edu/abs/2021JOSS....6.3283B/abstract>
 
-To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow [https://github.com/lenstronomy].
+To install `lenstronomy`, which contains the tracer module that this tutorial covers, follow <https://github.com/lenstronomy>.
 
 If you have any questions, please reach out! I am friendly and approachable!  
 methab (at) student.unimelb.edu.au   
