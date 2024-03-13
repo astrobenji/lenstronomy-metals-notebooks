@@ -2,7 +2,7 @@
 ## A compliment Jupyter notebook to Metha et al. 2024 [arxiv_link]
 Tutorials for using lenstronomy on light-weighted data, such as metallicities. 
 
-Hello researcher! I'm Benji Metha, one of the developers/testers for Lenstronomy's tracer module. In this Notebook, I will show you how lenstronomy can be used to fit a metallicity profile to observed galaxy data.
+Hello researcher! I'm Benji Metha, one of the developers for Lenstronomy's tracer module. In this Notebook, I will show you how lenstronomy can be used to fit a metallicity profile to observed galaxy data.
 
 To make it work, you need three things:
 
