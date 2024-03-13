@@ -6,8 +6,7 @@ Hello researcher! I'm Benji Metha, one of the developers for Lenstronomy's trace
 
 To make it work, you need three things:
 
-* Observations of the light distribution of the system (It's also fine to use a bright emission line, such as H
-).
+* Observations of the light distribution of the system (It's also fine to use a bright emission line, such as H$\alpha$).
 * Observations of the 2D metallicity distribution of the system, with uncertainty.
 * An estimate of the point spread function of the telescope.
 
