@@ -1,5 +1,5 @@
 # lenstronomy-metals-notebooks
-## A compliment Jupyter notebook to Metha et al. 2024 [arxiv_link]
+## A compliment Jupyter notebook to <https://arxiv.org/abs/2403.08175>[Metha et al. 2024]
 A tutorial for using lenstronomy on light-weighted galaxy data, such as metallicity maps. 
 
 Hello researcher! I'm Benji Metha, one of the developers for Lenstronomy's tracer module. In this Notebook, I will show you how lenstronomy can be used to fit a metallicity profile to observed galaxy data.
