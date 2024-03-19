@@ -1,0 +1,61 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: lenstronomy_tracer_module
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Benjamin Andrew
+    family-names: Metha
+    email: methab@student.unimelb.edu.au
+    affiliation: University of Melbourne
+    orcid: 'https://orcid.org/0000-0002-8632-6049'
+  - given-names: Simon
+    family-names: Birrer
+    orcid: 'https://orcid.org/0000-0003-3195-5507'
+    affiliation: Stony Brook University
+    email: simon.birrer@stonybrook.edu
+identifiers:
+  - type: doi
+    value: 10.1093/rasti/rzae010
+    description: 'https://doi.org/10.1093/rasti/rzae010'
+  - type: url
+    value: 'https://arxiv.org/abs/2403.08175'
+    description: "\tarXiv:2403.08175"
+abstract: >-
+  Historically, metallicity profiles of galaxies have been
+  modelled using a radially symmetric, two-parameter linear
+  model, which reveals that most galaxies are more
+  metal-rich in their central regions than their outskirts.
+  However, this model is known to yield inaccurate results
+  when the point-spread function (PSF) of a telescope is
+  large. Furthermore, a radially symmetric model cannot
+  capture asymmetric structures within a galaxy. In this
+  work, we present an extension of the popular
+  forward-modelling python package LENSTRONOMY, which allows
+  the user to overcome both of these obstacles. We
+  demonstrate the new features of this code base through two
+  illustrative examples on simulated data. First, we show
+  that through forward modelling, LENSTRONOMY is able to
+  recover accurately the metallicity gradients of galaxies,
+  even when the PSF is comparable to the size of a galaxy,
+  as long as the data is observed with a sufficient number
+  of pixels. Additionally, we demonstrate how LENSTRONOMY is
+  able to fit irregular metallicity profiles to galaxies
+  that are not well-described by a simple surface brightness
+  profile. This opens up pathways for detailed
+  investigations into the connections between morphology and
+  chemical structure for galaxies at cosmological distances
+  using the transformative capabilities of JWST. Our code is
+  publicly available and open source, and can also be used
+  to model spatial distributions of other galaxy properties
+  that are traced by its surface brightness profile
+keywords:
+  - Software
+  - Data Methods
+  - 'ISM: abundances'
+  - 'galaxies: abundance'
+license: CC-BY-4.0
